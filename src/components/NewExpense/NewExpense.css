@@ -8,7 +8,6 @@
   text-align: center;
   box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
 }
-
 .new-expense button {
   font: inherit;
   cursor: pointer;
@@ -19,7 +18,6 @@
   border-radius: 12px;
   margin-right: 1rem;
 }
-
 .new-expense button:hover,
 .new-expense button:active {
   background-color: #510674;
